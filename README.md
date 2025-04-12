@@ -14,3 +14,15 @@ Exercício 1 README
 Durante o desenvolvimento, foi necessário adicionar a condição Infobox_Sem_Titulo, pois algumas páginas apresentavam um título visível, mas ainda assim eram salvas com nomes vazios. Isso causava a sobrescrição de arquivos. Mesmo com essa verificação, o problema persistiu em alguns casos. Contudo, nos testes com as páginas fornecidas pelo professor, o processo funcionou corretamente.
 
 Também estava ocorrendo erro com títulos muito grandes, logo fizemos o Try Except para apenas continuar quando desse erro
+
+----------------------------------------------------------------------------
+Exercicio 2 README
+
+1.	Arquivo Exercicio_2.ipynb é o arquivo do codigo completo
+
+2.	Falta salvar as informacoes no arquivo JSON, eh pra salvar um arquivo para cada serie ?
+ 
+3.	Oque eh a popularidade e a listagem do elenco principal eh apenas o nome do ator e personagem ?
+
+4.	Revisar porque e quais series nao estao pegando
+
