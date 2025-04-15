@@ -1,3 +1,7 @@
+INTEGRANTES: Matheus Ricoi e Davi Alcantara
+TURMA: 10
+PROFESSOR: Lucas Rafael Costella Pessutto
+
 Exercício 1 README	
 
 
@@ -16,13 +20,15 @@ Durante o desenvolvimento, foi necessário adicionar a condição Infobox_Sem_Ti
 Também estava ocorrendo erro com títulos muito grandes, logo fizemos o Try Except para apenas continuar quando desse erro
 
 ----------------------------------------------------------------------------
-Exercicio 2 README
+Exercício 2 README
 
-1.	Arquivo Exercicio_2.ipynb é o arquivo do codigo completo
+1.	Arquivo Exercicio_2.ipynb é o arquivo do código completo
 
-2.	Falta salvar as informacoes no arquivo JSON, eh pra salvar um arquivo para cada serie ?
+2.	Um arquivo com todas o arquivo JSON
  
-3.	Oque eh a popularidade e a listagem do elenco principal eh apenas o nome do ator e personagem ?
+3.	A popularidade eh apenas o numero da popularidade
 
-4.	Revisar porque e quais series nao estao pegando
+4.	Revisar porque e quais series não estão pegando
+
+----------------------------------------------------------------------------
 
